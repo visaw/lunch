@@ -37,8 +37,9 @@ body {
 }
 
 #start {
-    width: 120px;
-    height: 40px;
+    width: 200px;
+    height: 80px;
+    font-size: 40px;
     +margin-left: 260px;
     vertical-align: middle;
     font-family: "微软雅黑";
@@ -47,8 +48,9 @@ body {
 
 #stop {
     display:none;
-    width: 120px;
-    height: 40px;
+    width: 200px;
+    height: 80px;
+    font-size: 40px;
     vertical-align: middle;
     font-family: 微软雅黑;
     cursor: pointer;
@@ -100,7 +102,3 @@ body {
     right: 15px;
 }
 
-input {
-    margin: 20px;
-    font-size: 30px;
-}
